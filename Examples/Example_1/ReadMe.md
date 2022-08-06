@@ -40,7 +40,7 @@ Set of all locations that does not collide with the uncertain object with high p
 <p align = "center">
 
   
-  **Approach A and B**
+  **Comparison**
   <p align="center">
 <img src="https://github.com/jasour/Risk-Contours/blob/main/Examples/Example_1/Plots/A_B.png" width="400" height="400" />
 <p align = "center">
