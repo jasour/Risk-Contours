@@ -5,17 +5,24 @@
 
 Uncertain object with uncertain size
 
-* Uncertain Object: A circle with uncertain radius
-i.e., {(x1,x2) : w1^2-(x1-0)^2-(x2-0)^2 >= 0 } where w1 is the uncertain radius with Uniform distribution on [0.3, 0.4]
+* Uncertain Object: A circle-shaped obstacle with uncertain radius
+
+<p align="center">
+{(x1,x2) : w1^2-(x1-0)^2-(x2-0)^2 >= 0 } where w1 is the uncertain radius with Uniform distribution on [0.3, 0.4]
+<p>
 
 
 * Probabilistic safety constraint:
-Probability of collision with the uncertain object should be low, i.e., Probability( w1^2-(x1-0)^2-(x2-0)^2 >= 0 ) <= Delta
+Probability of collision with the uncertain object should be low, 
+<p align="center">
+Probability( w1^2-(x1-0)^2-(x2-0)^2 >= 0 ) <= Delta
+<p>
 
 * Risk-bounded safe set:
 Set of all locations that does not collide with the uncertain object with high probability,
-i.e., { (x1,x2): Probability( w1^2-(x1-0)^2-(x2-0)^2 >= 0 ) <= Delta }
-
+<p align="center">
+{ (x1,x2): Probability( w1^2-(x1-0)^2-(x2-0)^2 >= 0 ) <= Delta }
+<p>
 
 
 
