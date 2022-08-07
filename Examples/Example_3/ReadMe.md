@@ -28,7 +28,9 @@ Set of all locations that does not collide with the uncertain object with high p
 { (x1,x2): Probability( g(x1,x2,w) >= 0 ) <= Delta }
 <p>
 
-
+<p align="center">
+<img src="https://github.com/jasour/Risk-Contours/blob/main/Examples/Example_3/Plots/obj.png" width="400" height="400" />
+<p align = "center">
 
 **Approach A**
 <p align="center">
