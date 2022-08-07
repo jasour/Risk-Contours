@@ -71,8 +71,11 @@ This approach uses polynomial indicator function of the safety set.
 
 Eq(1): Safety Constraints ⮕ Eq(3): Risk Contours ⮕ Eq (10) and (13): Outer and Inner approximation of the risk contour
 
+* [Code](https://github.com/jasour/Risk-Contours-Map)
 
 [Ashkan Jasour, Brian C. Williams, "Risk Contours Map for Risk Bounded Motion Planning under Perception Uncertainties", Robotics: Science and System (RSS), 2019.](http://www.roboticsproceedings.org/rss15/p56.pdf)
+
+* [Semidefinite Programming-based Risk Estimation](https://github.com/jasour/Nonlinear-Risk-Assessment)
 
 ---
 
