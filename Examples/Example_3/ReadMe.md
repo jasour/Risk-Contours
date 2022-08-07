@@ -46,7 +46,7 @@ Set of all locations that does not collide with the uncertain object with high p
   
   **Comparison**
   <p align="center">
-<img src="https://github.com/jasour/Risk-Contours/blob/main/Examples/Example_3/Plots/A_B.png" width="400" height="400" />
+<img src="https://github.com/jasour/Risk-Contours/blob/main/Examples/Example_3/Plots/A_B.png" width="800" height="600" />
 <p align = "center">
 
 
