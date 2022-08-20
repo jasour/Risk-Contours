@@ -19,13 +19,13 @@ and w is the uncertain parameter with a normal distribution.
 * Probabilistic safety constraint:
 Probability of collision with the uncertain object should be low, 
 <p align="center">
-Probability( g(x1,x2,w) >= 0 ) <= Delta
+Probability( g(x1,x2,x3,w) >= 0 ) <= Delta
 <p>
 
 * Risk-bounded safe set:
 Set of all locations that does not collide with the uncertain object with high probability,
 <p align="center">
-{ (x1,x2): Probability( g(x1,x2,w) >= 0 ) <= Delta }
+{ (x1,x2,x3): Probability( g(x1,x2,x3,w) >= 0 ) <= Delta }
 <p>
 
 <p align="center">
