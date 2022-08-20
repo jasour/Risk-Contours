@@ -29,13 +29,16 @@ Set of all locations that does not collide with the uncertain object with high p
 <p>
 
 <p align="center">
-<img src="https://github.com/jasour/Risk-Contours/blob/main/Examples/Example_3/Plots/obj.png" width="400" height="400" />
+<img src="https://github.com/jasour/Risk-Contours/blob/main/Examples/Example_3_2D_Nonconvex
+/Plots/obj.png" width="400" height="400" />
 <p align = "center">
 
 **Approach A**
 <p align="center">
-<img src="https://github.com/jasour/Risk-Contours/blob/main/Examples/Example_3/Plots/A_1.png" width="400" height="400" />
-<img src="https://github.com/jasour/Risk-Contours/blob/main/Examples/Example_3/Plots/A_2.png" width="400" height="400" />
+<img src="https://github.com/jasour/Risk-Contours/blob/main/Examples/Example_3_2D_Nonconvex
+/Plots/A_1.png" width="400" height="400" />
+<img src="https://github.com/jasour/Risk-Contours/blob/main/Examples/Example_3_2D_Nonconvex
+/Plots/A_2.png" width="400" height="400" />
 <p align = "center">
 
 
