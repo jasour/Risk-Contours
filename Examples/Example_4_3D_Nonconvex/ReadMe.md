@@ -29,6 +29,6 @@ Set of all locations that does not collide with the uncertain object with high p
 <p>
 
 <p align="center">
-<img src="https://github.com/jasour/Risk-Contours/blob/main/Examples/Example_4_3D_Nonconvex/plot.png" width="400" height="400" />
+<img src="https://github.com/jasour/Risk-Contours/blob/main/Examples/Example_4_3D_Nonconvex/plot.png" width="600" height="400" />
 <p align = "center">
 
