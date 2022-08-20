@@ -36,7 +36,7 @@ Set of all locations that does not collide with the uncertain object with high p
 
 
 <p align="center">
-<img src="https://github.com/jasour/Risk-Contours/blob/main/Examples/Example_2/plot.png" width="400" height="400" />
+<img src="https://github.com/jasour/Risk-Contours/blob/main/Examples/Example_2_Dynamic/plot.png" width="400" height="400" />
 <p align = "center">
 At each time t, for any point inside the risk contour (outside of the outer curve), probability of collision with the moving uncertain obstacle is less or equal to ∆.
 
